@@ -11,7 +11,7 @@ class TodoTrek:
         self.root.configure(bg="#3b9dd1")
 
         style = ttk.Style()
-        style.theme_use("clam")  # Use a valid theme name
+        style.theme_use("clam") 
         style.configure("TFrame", background="#3b9dd1")
         style.configure("TButton", padding=6, font=('Open Sans', 12), background="#ffffff")
         style.configure("TEntry", padding=6, font=('Open Sans', 12))

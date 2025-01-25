@@ -10,7 +10,7 @@ TodoTrek is a simple yet powerful To-Do List application designed to help users 
 - **Delete Tasks:** Remove completed or unnecessary tasks.
 - **Save Tasks:** Ensure your tasks are stored and accessible later.
 
-   ## 🛠️ Technologies Used
+  ## Technologies Used
 
 - **Programming Language:** Python  
 - **GUI Library:** Tkinter  
